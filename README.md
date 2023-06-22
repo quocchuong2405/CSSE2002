@@ -1,2 +1,3 @@
 # CSSE2002
-Code for the CSSE2002 course's assignment .
+- Code for the "programming in the large" course's assignments.
+- Java core + Junit test, OOP.
